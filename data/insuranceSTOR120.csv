@@ -1,0 +1,251 @@
+"Class","Kids Driving","age","Kids at Home","Years at Job","Parent","Marital Status","Sex","Education","Job","Travel Time","Car Use","Car Type","Red Car","Claim Frequency","License Revoked","Car Age","Home Value","Income","Bluebook Car Value","Old Claim Amount"
+0,2,40,2,6,"No","Yes","M","Bachelors","Manager",31,"Commercial","Panel Truck","yes",1,"Yes",11,260592,80395,22770,14003
+0,0,55,0,15,"No","Yes","M","Masters","Lawyer",36,"Private","Minivan","no",0,"Yes",14,321843,100308,13430,0
+1,2,45,2,12,"Yes","No","M","High School","Blue Collar",68,"Commercial","Minivan","yes",3,"No",1,217907,61705,16710,3618
+0,0,53,0,15,"No","Yes","F","Bachelors","Manager",11,"Commercial","Pickup","no",1,"No",10,268417,75184,25540,1037
+1,0,53,0,12,"No","Yes","F","High School","Clerical",21,"Private","SUV","no",2,"No",6,97541,25972,10860,2457
+0,0,41,2,17,"No","Yes","M","PhD","Lawyer",16,"Private","Van","yes",0,"Yes",8,243198,65901,16570,0
+0,0,42,0,7,"No","Yes","M","<High School","Blue Collar",63,"Private","Pickup","yes",2,"No",6,237130,70141,9110,1744
+0,0,41,0,0,"No","Yes","F","High School","Student",13,"Private","SUV","no",0,"No",5,0,0,11320,0
+0,0,36,2,12,"Yes","No","F","High School","Clerical",38,"Private","SUV","no",0,"No",1,0,25282,11160,0
+1,0,35,2,14,"No","Yes","F","High School","Blue Collar",45,"Commercial","SUV","no",1,"No",7,159239,29250,9170,1881
+1,0,47,1,10,"Yes","No","F","Bachelors","Blue Collar",45,"Commercial","SUV","no",2,"Yes",10,0,82633,14460,15697
+1,1,57,2,16,"No","Yes","F","PhD","Doctor",53,"Private","Pickup","no",3,"No",13,474628,193618,41440,1277
+0,0,34,3,17,"No","Yes","M","High School","Blue Collar",65,"Commercial","Minivan","yes",4,"No",10,100773,17949,20060,10821
+0,0,42,4,14,"Yes","No","M","<High School","Clerical",31,"Private","SUV","no",0,"No",1,103267,22225,18780,0
+0,0,41,0,13,"No","Yes","F","Masters","Lawyer",22,"Private","SUV","no",0,"No",17,280181,125603,18160,0
+0,0,47,0,8,"No","No","M","High School","Clerical",24,"Private","Van","yes",0,"No",1,0,51624,20500,0
+1,0,62,0,14,"No","Yes","F","Bachelors","Professional",32,"Private","Sports Car","no",1,"No",1,238759,67112,18300,8363
+0,2,45,3,7,"No","Yes","F","Masters","Lawyer",5,"Private","SUV","no",2,"Yes",10,241791,65750,14980,20038
+0,0,41,0,11,"No","No","F","High School","Professional",40,"Private","SUV","no",1,"No",1,195292,51765,5600,5259
+0,0,42,0,7,"No","Yes","F","Masters","Lawyer",29,"Private","SUV","no",0,"No",17,450858,178453,24790,0
+0,0,43,3,0,"No","Yes","F","High School","Student",62,"Private","SUV","no",0,"No",1,0,0,12410,0
+0,0,42,0,12,"No","Yes","F","<High School","Blue Collar",11,"Private","SUV","no",0,"No",1,163671,55507,7050,0
+1,0,47,0,7,"No","No","F","High School","Blue Collar",27,"Commercial","SUV","no",2,"Yes",5,0,44812,6200,43405
+0,0,49,0,13,"No","Yes","F","High School","Blue Collar",14,"Commercial","Pickup","no",2,"No",1,288808,99493,23030,6980
+0,0,63,0,15,"No","Yes","M","High School","Manager",47,"Private","SUV","yes",0,"No",8,183403,39247,20960,0
+1,2,44,2,11,"Yes","No","F","Bachelors","Manager",38,"Private","Minivan","no",2,"No",7,0,104682,25950,8543
+1,0,27,1,10,"Yes","No","F","Bachelors","Student",28,"Commercial","Sports Car","no",3,"No",8,0,20972,6640,7186
+0,0,45,0,11,"No","No","M","High School","Blue Collar",56,"Commercial","Van","no",0,"No",8,259295,67095,19420,0
+1,0,40,0,3,"No","Yes","M","Bachelors","Professional",35,"Commercial","Panel Truck","yes",2,"No",9,302340,101059,23780,3808
+1,0,44,2,0,"Yes","No","F","PhD","Doctor",39,"Private","Minivan","no",3,"No",17,0,0,23570,1380
+0,0,57,0,15,"No","Yes","F","Bachelors","Manager",21,"Private","Minivan","no",0,"No",11,334600,98323,20920,0
+0,0,49,0,8,"No","Yes","F","<High School","Home Maker",35,"Private","Sports Car","no",3,"No",1,117420,1133,6400,5761
+0,0,43,0,10,"No","Yes","F","Bachelors","Blue Collar",72,"Commercial","SUV","no",0,"No",14,233968,57018,13540,0
+0,0,53,0,15,"No","No","M","Masters","Manager",14,"Private","Minivan","no",0,"No",14,247537,72403,24140,0
+0,0,50,0,10,"No","No","M","Bachelors","Manager",33,"Commercial","Panel Truck","no",0,"No",8,270997,94403,29750,0
+0,0,57,0,13,"No","No","F","<High School","Student",63,"Private","SUV","no",1,"No",6,0,11322,8330,5732
+1,0,48,0,9,"No","No","M","High School","Blue Collar",12,"Commercial","Panel Truck","no",3,"No",1,242830,77344,24680,3319
+0,0,52,0,6,"No","No","F","<High School","Clerical",56,"Private","SUV","no",0,"No",5,0,21802,8880,0
+1,0,57,0,8,"No","Yes","F","High School","Blue Collar",30,"Commercial","SUV","no",2,"No",7,308350,81767,15570,4734
+0,0,57,0,9,"No","Yes","M","<High School","Clerical",73,"Private","Pickup","yes",0,"No",1,165896,26222,6800,0
+1,0,48,0,14,"No","Yes","F","Bachelors","Blue Collar",61,"Commercial","SUV","no",1,"No",7,246612,96659,18490,4906
+1,0,61,0,13,"No","Yes","F","Bachelors","Professional",23,"Private","Sports Car","no",2,"Yes",18,173790,28350,21180,9637
+0,1,43,2,13,"No","Yes","M","<High School","Blue Collar",79,"Commercial","Minivan","no",0,"No",6,165388,45784,14820,0
+0,0,45,0,14,"No","Yes","M","High School","Blue Collar",36,"Private","Minivan","yes",0,"No",1,190128,68958,13860,0
+1,0,51,0,12,"No","No","F","High School","Blue Collar",58,"Commercial","Sports Car","no",3,"No",5,0,67452,21600,4075
+0,0,44,0,0,"No","No","F","Masters","Home Maker",21,"Private","Minivan","no",0,"No",12,0,0,16560,0
+1,0,29,3,0,"Yes","No","F","High School","Student",12,"Commercial","Sports Car","no",3,"Yes",6,0,0,6720,52445
+1,0,39,1,15,"No","Yes","F","High School","Clerical",39,"Private","SUV","no",3,"No",7,159351,30804,13140,5101
+0,0,37,0,10,"No","Yes","M","<High School","Clerical",38,"Private","Minivan","no",0,"No",8,173130,41486,16210,0
+0,1,42,3,15,"No","Yes","F","Bachelors","Professional",24,"Private","Sports Car","no",0,"No",5,322924,122744,13770,0
+1,0,41,0,0,"No","No","F","Masters","Home Maker",47,"Private","SUV","no",1,"No",15,109155,0,13030,2334
+0,3,37,3,9,"Yes","No","F","High School","Home Maker",35,"Private","SUV","no",1,"No",7,86075,6857,12540,3452
+1,1,43,3,17,"No","Yes","F","<High School","Blue Collar",29,"Commercial","Sports Car","no",1,"No",1,162586,32505,3750,6714
+0,0,36,3,11,"Yes","No","M","Bachelors","Professional",48,"Private","Minivan","yes",3,"No",11,282821,101575,5100,2862
+1,0,52,0,0,"No","No","F","High School","Student",26,"Commercial","SUV","no",2,"Yes",1,0,0,6700,4549
+0,0,61,0,13,"No","Yes","F","High School","Blue Collar",56,"Commercial","Sports Car","no",0,"No",3,215205,41349,14460,0
+0,0,55,0,12,"No","No","F","Bachelors","Blue Collar",17,"Commercial","Sports Car","no",0,"No",7,356853,130162,28420,0
+1,0,51,0,8,"No","No","M","Bachelors","Blue Collar",31,"Commercial","Minivan","yes",2,"No",14,0,80479,14650,575
+1,0,28,4,0,"Yes","No","M","Bachelors","Student",30,"Commercial","Minivan","yes",1,"No",13,0,0,4300,6905
+0,0,40,1,16,"No","Yes","F","Bachelors","Manager",28,"Private","Sports Car","no",3,"No",11,236897,66987,12200,8216
+0,2,41,3,14,"No","Yes","F","<High School","Blue Collar",24,"Private","Sports Car","no",0,"No",1,109835,17321,6530,0
+0,0,32,2,13,"No","Yes","F","<High School","Clerical",46,"Private","Sports Car","no",0,"No",1,78995,8404,25390,0
+1,0,33,4,0,"Yes","No","M","High School","Student",14,"Commercial","Minivan","yes",1,"No",5,0,0,15090,1631
+0,0,39,0,0,"No","Yes","F","PhD","Home Maker",47,"Private","Sports Car","no",4,"No",12,82620,0,15290,1344
+0,0,47,0,13,"No","Yes","M","High School","Clerical",11,"Private","Minivan","yes",1,"Yes",1,132321,32611,1500,26973
+1,0,36,0,10,"No","No","F","High School","Clerical",34,"Private","SUV","no",1,"No",1,126267,22362,9200,4633
+0,0,52,0,14,"No","No","M","Masters","Lawyer",16,"Private","Minivan","yes",3,"No",15,346249,126865,14440,30341
+0,0,48,0,12,"No","No","M","Bachelors","Professional",28,"Commercial","Van","no",4,"No",9,0,106742,18340,1124
+0,0,46,0,14,"No","Yes","F","High School","Blue Collar",22,"Commercial","Minivan","no",0,"No",1,176373,50206,25400,0
+0,0,44,0,12,"No","Yes","F","High School","Blue Collar",84,"Commercial","SUV","no",1,"No",8,354910,126608,16610,9869
+1,0,42,0,11,"No","No","M","Bachelors","Clerical",55,"Commercial","Pickup","no",3,"No",9,0,74379,5020,2225
+0,0,34,1,10,"No","Yes","M","<High School","Clerical",12,"Commercial","Pickup","yes",2,"No",1,95764,14942,12030,9925
+1,0,30,2,11,"No","Yes","M","High School","Student",5,"Commercial","Pickup","no",3,"Yes",1,95447,13490,5850,31401
+0,0,34,1,0,"No","Yes","F","<High School","Home Maker",16,"Private","SUV","no",3,"Yes",1,70103,0,5410,22598
+1,0,53,0,12,"No","No","M","PhD","Doctor",31,"Private","Minivan","yes",4,"No",1,0,189052,12550,2045
+0,0,41,2,13,"No","Yes","F","Bachelors","Blue Collar",12,"Commercial","Minivan","no",0,"Yes",6,382564,153270,20930,0
+1,0,33,0,7,"No","No","F","Masters","Lawyer",29,"Private","SUV","no",2,"No",10,0,66604,11460,1552
+0,0,50,0,0,"No","Yes","F","High School","Student",32,"Commercial","Minivan","no",0,"No",1,0,0,20370,0
+1,0,36,2,10,"Yes","No","M","High School","Blue Collar",25,"Commercial","Minivan","no",1,"No",7,0,27370,13670,4318
+0,0,48,0,10,"No","No","F","High School","Student",64,"Private","SUV","no",1,"No",7,0,27208,10150,18535
+0,1,42,2,10,"No","Yes","F","<High School","Clerical",38,"Private","Pickup","no",0,"No",5,165588,32526,20150,0
+0,0,41,2,0,"Yes","No","F","Masters","Home Maker",18,"Private","Minivan","no",0,"No",17,54130,0,32090,0
+1,0,52,0,10,"No","No","M","Bachelors","Student",38,"Commercial","Pickup","yes",3,"No",11,0,5,6700,4824
+0,0,47,0,14,"No","Yes","F","Bachelors","Student",42,"Commercial","Minivan","no",1,"No",14,0,14632,7590,2988
+0,0,46,0,12,"No","Yes","M","Bachelors","Manager",52,"Private","Minivan","yes",2,"No",12,185273,50112,14370,2894
+0,0,30,1,8,"Yes","No","M","Bachelors","Professional",33,"Private","Pickup","yes",2,"No",11,145621,59336,10430,7959
+0,0,55,0,13,"No","Yes","M","Bachelors","Blue Collar",56,"Private","Minivan","no",0,"No",10,307730,108409,20260,0
+0,0,48,0,14,"No","Yes","M","<High School","Clerical",38,"Commercial","Panel Truck","yes",0,"No",1,210809,43996,29980,0
+0,0,38,2,15,"No","Yes","M","<High School","Clerical",5,"Commercial","Pickup","yes",0,"No",1,91720,15413,6840,0
+0,0,43,0,10,"No","Yes","M","High School","Blue Collar",23,"Commercial","Pickup","yes",2,"No",1,148772,35511,9350,9981
+0,0,42,0,12,"No","Yes","M","Masters","Lawyer",51,"Private","Minivan","no",0,"No",17,351394,102313,15930,0
+1,0,36,0,9,"No","No","M","<High School","Clerical",22,"Private","Minivan","yes",3,"No",1,0,12546,1500,4636
+0,0,48,0,0,"No","Yes","F","High School","Home Maker",13,"Private","Sports Car","no",4,"No",1,94656,0,1500,1061
+1,1,46,0,11,"No","Yes","M","High School","Clerical",35,"Commercial","SUV","no",2,"No",1,160959,34208,9090,6583
+0,0,39,2,10,"No","Yes","M","High School","Clerical",47,"Commercial","Van","no",0,"No",1,152551,24177,20570,0
+0,1,44,2,15,"No","Yes","M","Masters","Professional",40,"Private","Minivan","no",0,"No",15,233009,80140,13910,0
+0,0,54,0,12,"No","Yes","M","Masters","Lawyer",45,"Private","Minivan","no",3,"No",10,303050,103454,26420,5555
+1,0,37,3,0,"No","Yes","M","High School","Student",5,"Commercial","Pickup","yes",3,"Yes",1,55922,0,5580,12048
+0,0,43,2,16,"No","Yes","M","High School","Clerical",57,"Private","Minivan","no",0,"No",1,220417,63612,12160,0
+0,0,50,0,8,"No","Yes","F","High School","Clerical",40,"Private","Sports Car","no",0,"No",10,142428,28436,6480,0
+1,0,49,0,12,"No","Yes","M","Bachelors","Blue Collar",23,"Commercial","Pickup","yes",2,"No",7,194953,55015,6400,3034
+0,0,62,0,7,"No","No","M","Bachelors","Manager",58,"Private","Minivan","yes",0,"Yes",8,237139,69909,18060,0
+0,0,63,0,15,"No","Yes","F","PhD","Doctor",10,"Private","SUV","no",0,"No",11,343410,121398,16270,0
+1,0,39,0,10,"No","No","F","Bachelors","Professional",53,"Private","Sports Car","no",1,"No",1,0,92264,22830,10011
+0,0,42,0,13,"No","Yes","F","Bachelors","Manager",27,"Private","Minivan","no",0,"No",11,238724,77737,22800,0
+0,0,47,0,12,"No","Yes","M","PhD","Doctor",51,"Private","SUV","no",0,"No",11,453142,189392,10850,0
+1,0,55,0,9,"No","Yes","F","Masters","Lawyer",77,"Private","Sports Car","no",3,"No",21,178362,59196,7420,4274
+0,0,47,0,13,"No","No","M","High School","Blue Collar",46,"Commercial","Panel Truck","yes",0,"No",1,213697,55920,26700,0
+0,0,43,0,10,"No","No","M","High School","Clerical",5,"Private","Pickup","yes",0,"No",1,0,31428,5800,0
+0,0,53,0,13,"No","No","F","High School","Clerical",42,"Private","Minivan","no",0,"No",1,0,35516,19780,0
+1,0,51,0,0,"No","Yes","M","High School","Student",34,"Commercial","Panel Truck","yes",5,"No",1,0,0,26580,5921
+0,0,48,0,12,"No","Yes","F","Masters","Lawyer",24,"Private","SUV","no",0,"No",17,353815,107503,28270,0
+1,0,36,3,19,"No","Yes","F","High School","Blue Collar",25,"Commercial","SUV","no",1,"Yes",1,191264,34658,8290,30192
+0,0,37,0,16,"No","Yes","F","High School","Blue Collar",41,"Commercial","SUV","no",0,"No",1,166306,32397,12740,0
+0,0,54,0,7,"No","No","M","Bachelors","Blue Collar",5,"Commercial","Pickup","yes",0,"No",11,257604,78921,5000,0
+0,0,48,0,13,"No","Yes","M","<High School","Clerical",15,"Commercial","Panel Truck","no",3,"No",6,159568,20887,30380,18920
+0,0,39,2,13,"No","Yes","M","<High School","Clerical",57,"Commercial","Pickup","no",0,"No",5,113792,17015,11330,0
+0,0,38,0,7,"No","Yes","M","Bachelors","Professional",27,"Private","Minivan","yes",0,"Yes",16,303759,99207,17240,0
+0,0,46,0,12,"No","No","M","Bachelors","Professional",44,"Private","Minivan","yes",2,"Yes",4,0,82398,20510,34195
+0,0,47,0,13,"No","Yes","M","High School","Student",66,"Commercial","Van","yes",0,"No",1,0,24911,18170,0
+0,0,46,0,9,"No","No","F","High School","Clerical",34,"Commercial","Pickup","yes",4,"No",3,0,34522,8820,4936
+1,0,56,0,13,"No","Yes","F","Bachelors","Clerical",48,"Commercial","Pickup","no",1,"No",15,166535,44320,12160,3211
+0,0,52,0,13,"No","Yes","F","Masters","Lawyer",35,"Private","Van","no",0,"No",10,275991,99251,35570,0
+1,0,48,0,11,"No","No","F","High School","Blue Collar",5,"Commercial","SUV","no",1,"No",1,189120,65240,8020,846
+0,0,39,2,12,"No","Yes","M","High School","Blue Collar",42,"Commercial","Pickup","no",0,"No",1,197089,59685,7470,0
+0,0,31,3,13,"Yes","No","F","PhD","Manager",29,"Private","SUV","no",0,"No",11,0,99412,21180,0
+0,0,44,0,13,"No","No","M","Masters","Lawyer",14,"Private","Minivan","yes",0,"No",17,0,89627,14860,0
+0,0,47,0,9,"No","No","F","High School","Blue Collar",6,"Commercial","SUV","no",0,"No",1,0,61365,26140,0
+0,0,52,0,3,"No","Yes","M","Bachelors","Manager",56,"Private","Van","yes",3,"No",9,222590,59233,17450,9175
+1,0,52,0,13,"No","Yes","M","Bachelors","Professional",46,"Commercial","Panel Truck","yes",1,"No",15,213026,63301,26630,11364
+1,2,37,3,12,"No","Yes","F","High School","Professional",20,"Private","Minivan","no",2,"No",1,200016,40012,9200,3119
+0,0,58,0,15,"No","No","M","Bachelors","Blue Collar",22,"Commercial","Minivan","yes",1,"No",6,0,98573,19200,2459
+1,0,25,2,14,"No","Yes","M","High School","Clerical",55,"Private","Minivan","yes",2,"No",1,87400,18159,15360,5117
+0,0,51,0,10,"No","No","M","PhD","Doctor",32,"Private","Van","no",4,"No",18,0,205354,22040,1305
+0,0,51,0,15,"No","No","M","Masters","Lawyer",40,"Private","Minivan","yes",0,"No",1,0,85317,1500,0
+0,0,61,3,11,"No","Yes","F","Masters","Professional",50,"Commercial","Sports Car","no",0,"No",11,294708,92775,10390,0
+0,0,57,0,14,"No","Yes","M","Masters","Lawyer",41,"Private","Minivan","no",0,"No",10,390682,135361,15040,0
+1,1,58,2,16,"No","Yes","F","Bachelors","Professional",29,"Private","SUV","no",2,"No",10,261777,108047,18100,4646
+0,1,44,2,11,"Yes","No","F","Bachelors","Professional",8,"Private","Minivan","no",0,"Yes",8,0,88492,14750,0
+1,0,38,0,12,"No","No","M","<High School","Blue Collar",24,"Commercial","Pickup","no",3,"No",4,136098,21119,12180,3252
+0,0,52,0,13,"No","No","M","Masters","Lawyer",20,"Private","Pickup","yes",2,"No",14,0,32967,6700,4663
+0,0,49,0,12,"No","Yes","M","Masters","Professional",73,"Private","Van","yes",0,"No",13,385020,137420,20140,0
+0,0,41,0,13,"No","Yes","F","Bachelors","Professional",35,"Private","SUV","no",3,"No",16,271197,69083,10510,6168
+0,0,48,0,13,"No","Yes","F","<High School","Home Maker",38,"Private","Minivan","no",2,"Yes",5,115976,16923,17760,12373
+0,0,37,0,7,"No","No","M","Bachelors","Manager",24,"Commercial","Van","yes",0,"No",1,0,125314,17730,0
+0,0,45,2,9,"No","Yes","F","Bachelors","Manager",49,"Private","SUV","no",0,"Yes",10,224065,46846,27410,0
+0,0,46,0,8,"No","Yes","F","Bachelors","Blue Collar",45,"Private","SUV","no",1,"No",7,194871,48656,12580,7450
+0,0,41,0,9,"No","Yes","M","Masters","Lawyer",17,"Private","Minivan","yes",0,"Yes",14,325288,115516,17150,0
+1,0,60,0,12,"No","Yes","F","Masters","Lawyer",64,"Private","SUV","no",1,"No",18,272962,77658,15270,7705
+0,0,52,1,14,"No","Yes","F","High School","Blue Collar",34,"Commercial","Pickup","no",0,"No",1,198077,63936,27240,0
+0,0,45,2,1,"No","Yes","F","<High School","Blue Collar",20,"Private","Sports Car","no",0,"No",5,184640,42133,10530,0
+0,0,40,0,11,"No","Yes","F","Bachelors","Professional",41,"Private","Minivan","no",2,"No",8,225934,62849,21990,7761
+0,0,51,0,7,"No","Yes","F","Masters","Professional",20,"Private","SUV","no",0,"No",5,255588,76916,21080,0
+0,0,42,0,12,"No","Yes","F","High School","Blue Collar",44,"Commercial","SUV","no",2,"No",4,268393,109098,1500,1015
+1,1,42,3,13,"Yes","No","M","Bachelors","Professional",31,"Commercial","Van","no",2,"No",14,0,156532,18060,785
+0,1,44,1,11,"Yes","No","F","High School","Clerical",54,"Private","Minivan","no",0,"No",1,0,26653,9260,0
+0,0,40,1,9,"Yes","No","M","High School","Blue Collar",46,"Commercial","Panel Truck","no",4,"No",1,0,44138,22590,1799
+0,0,43,0,11,"No","Yes","F","High School","Manager",44,"Private","SUV","no",0,"No",1,267152,106059,5800,0
+0,0,47,0,13,"No","No","M","Bachelors","Professional",40,"Private","Minivan","yes",0,"No",12,0,128481,14350,0
+1,0,28,2,12,"No","Yes","F","Masters","Manager",42,"Private","Minivan","no",1,"No",15,135831,38305,21980,1310
+1,0,49,0,9,"No","No","M","<High School","Student",37,"Commercial","Van","yes",3,"No",5,0,13394,21190,3653
+0,0,33,1,11,"No","Yes","F","High School","Manager",32,"Private","Pickup","no",1,"Yes",5,137034,56405,29200,21805
+0,0,36,0,9,"No","Yes","F","Bachelors","Home Maker",11,"Private","SUV","no",2,"No",7,101872,24652,7570,4615
+0,1,45,3,14,"No","Yes","M","Bachelors","Professional",33,"Commercial","Panel Truck","yes",0,"No",7,234505,81287,29590,0
+0,0,40,0,8,"No","No","M","High School","Blue Collar",37,"Commercial","Minivan","no",2,"No",1,182917,55258,13860,6474
+1,0,50,0,15,"No","No","F","<High School","Clerical",53,"Private","SUV","no",4,"No",1,0,16074,13420,1255
+1,0,35,2,12,"Yes","No","F","Bachelors","Professional",43,"Private","Minivan","no",1,"Yes",9,0,105992,17540,25379
+1,0,41,0,0,"No","Yes","F","Bachelors","Home Maker",40,"Private","SUV","no",3,"No",11,83235,0,5600,5020
+0,0,56,0,15,"No","Yes","M","Masters","Professional",38,"Private","Minivan","yes",0,"No",11,403584,160200,11420,0
+1,0,34,4,13,"No","Yes","F","High School","Blue Collar",34,"Commercial","SUV","no",4,"No",1,216444,54488,13360,4470
+1,0,45,0,9,"No","No","F","<High School","Clerical",38,"Private","SUV","no",1,"No",6,0,20188,14200,1310
+0,0,49,0,9,"No","No","M","Bachelors","Manager",15,"Private","Minivan","yes",0,"No",11,287762,94062,35690,0
+0,0,39,2,13,"No","Yes","F","Bachelors","Blue Collar",19,"Commercial","SUV","no",0,"No",4,239904,79484,5400,0
+0,0,55,0,11,"No","No","F","PhD","Doctor",41,"Private","SUV","no",0,"No",17,0,241408,24680,0
+0,0,43,0,0,"No","No","M","High School","Student",14,"Commercial","Pickup","yes",0,"No",1,0,0,5790,0
+1,0,29,1,8,"Yes","No","F","High School","Blue Collar",25,"Commercial","Sports Car","no",1,"No",1,0,73842,22340,4769
+0,0,46,0,13,"No","Yes","F","Masters","Lawyer",28,"Private","SUV","no",1,"No",12,204282,43220,6100,2882
+0,0,27,1,0,"No","Yes","F","Bachelors","Home Maker",48,"Private","SUV","no",0,"No",9,91135,0,20570,0
+0,0,45,0,12,"No","No","F","Bachelors","Professional",38,"Private","Sports Car","no",0,"No",9,316035,107327,24320,0
+0,0,45,0,11,"No","No","F","Bachelors","Professional",54,"Private","SUV","no",4,"No",1,0,80601,15170,9448
+1,1,37,2,12,"No","Yes","F","<High School","Student",24,"Private","SUV","no",2,"No",1,77025,77,8620,5289
+1,2,42,2,17,"No","Yes","F","High School","Clerical",35,"Private","SUV","no",1,"No",1,169843,51608,10860,7497
+0,0,55,0,15,"No","Yes","F","PhD","Doctor",25,"Private","Minivan","no",0,"No",8,313734,105178,12020,0
+0,0,33,3,14,"No","Yes","F","High School","Clerical",29,"Private","Sports Car","no",1,"No",8,274953,112762,33490,7239
+0,0,56,0,15,"No","Yes","M","Bachelors","Blue Collar",59,"Commercial","Minivan","yes",0,"No",9,335737,118666,15390,0
+0,0,50,0,13,"No","Yes","M","Masters","Manager",30,"Private","Minivan","yes",0,"No",13,185056,39245,1500,0
+0,0,34,1,12,"No","Yes","F","Bachelors","Professional",16,"Private","Sports Car","no",0,"No",9,163622,56113,4900,0
+1,0,46,0,10,"No","No","F","High School","Clerical",45,"Private","SUV","no",1,"Yes",1,0,42621,10360,7333
+0,1,55,2,15,"Yes","No","M","PhD","Doctor",41,"Private","Minivan","no",2,"No",13,0,127075,19450,7744
+0,0,50,0,12,"No","Yes","M","Masters","Lawyer",28,"Private","Minivan","yes",0,"No",15,240000,78100,13380,0
+0,0,44,2,14,"No","Yes","F","High School","Clerical",5,"Private","Minivan","no",0,"No",8,131158,35276,17810,0
+0,0,30,4,13,"No","Yes","M","High School","Student",52,"Commercial","Panel Truck","yes",2,"No",9,0,2519,30810,2630
+1,2,37,2,10,"Yes","No","F","Masters","Lawyer",35,"Private","SUV","no",3,"No",12,297539,107937,19130,5730
+1,0,69,0,12,"No","Yes","F","Masters","Lawyer",13,"Private","Sports Car","no",1,"Yes",20,231014,60965,14500,48298
+0,0,50,0,12,"No","No","F","Masters","Lawyer",35,"Private","Minivan","no",2,"No",19,0,108224,27010,4235
+1,0,35,0,8,"No","No","F","Bachelors","Blue Collar",46,"Commercial","SUV","no",2,"No",5,0,96291,14320,3597
+1,0,47,0,5,"No","No","M","<High School","Blue Collar",36,"Commercial","Pickup","yes",4,"No",4,0,68602,6200,9136
+0,0,46,0,12,"No","No","M","Masters","Manager",45,"Commercial","Panel Truck","no",0,"Yes",17,0,108636,30750,0
+0,0,43,0,14,"No","Yes","F","High School","Clerical",58,"Private","SUV","no",0,"No",8,194536,35647,14250,0
+1,0,49,0,9,"No","No","M","Bachelors","Blue Collar",46,"Commercial","Van","yes",2,"No",7,0,107150,17280,3780
+0,0,46,0,12,"No","Yes","F","Bachelors","Home Maker",25,"Private","SUV","no",0,"No",8,113804,21525,7920,0
+0,0,49,0,11,"No","Yes","F","Masters","Manager",29,"Private","Minivan","no",0,"Yes",10,232438,68711,21780,0
+0,0,46,1,13,"Yes","No","F","Bachelors","Professional",18,"Private","Minivan","no",1,"No",6,202178,62886,22260,5290
+1,1,40,1,12,"No","Yes","F","PhD","Doctor",10,"Private","Sports Car","no",4,"No",13,412774,159889,24870,7343
+0,0,37,1,7,"Yes","No","F","Bachelors","Professional",67,"Private","Sports Car","no",0,"No",8,314817,111183,12420,0
+0,0,37,0,9,"No","No","F","High School","Blue Collar",55,"Commercial","SUV","no",0,"Yes",1,217421,62409,11440,0
+0,0,44,0,0,"No","Yes","F","Masters","Home Maker",39,"Private","Minivan","no",0,"No",14,91344,0,11340,0
+0,0,55,0,13,"No","Yes","M","High School","Clerical",30,"Private","Minivan","yes",0,"No",9,205531,44967,6000,0
+0,1,36,2,0,"No","Yes","M","High School","Student",21,"Commercial","Minivan","yes",2,"Yes",1,0,0,12360,36756
+1,0,39,0,0,"No","Yes","F","High School","Student",55,"Commercial","Sports Car","no",3,"Yes",8,0,0,5400,27973
+0,0,55,0,13,"No","Yes","M","High School","Blue Collar",39,"Commercial","Minivan","no",0,"No",10,178760,50431,14660,0
+0,0,38,3,16,"No","Yes","F","Bachelors","Clerical",35,"Private","Sports Car","no",0,"No",9,251268,57371,7100,0
+1,0,46,0,6,"No","Yes","M","Bachelors","Professional",26,"Commercial","Panel Truck","yes",2,"No",8,139416,41077,22610,2161
+0,0,44,0,0,"No","Yes","F","Bachelors","Home Maker",28,"Private","Sports Car","no",2,"Yes",8,104490,0,14190,35430
+0,0,55,0,13,"No","No","M","Bachelors","Blue Collar",28,"Private","Minivan","yes",1,"No",12,0,30799,25700,7155
+1,1,37,2,13,"Yes","No","F","Bachelors","Blue Collar",22,"Commercial","Minivan","no",1,"No",12,0,80183,15500,8385
+1,0,44,3,16,"No","Yes","F","<High School","Student",30,"Commercial","Pickup","yes",2,"No",3,97653,5409,9390,8339
+0,0,57,0,16,"No","Yes","M","Bachelors","Professional",33,"Private","Minivan","no",0,"No",13,275532,70532,14250,0
+1,0,24,0,9,"No","No","M","Bachelors","Professional",8,"Private","Pickup","yes",3,"No",5,0,21455,6050,2661
+1,0,58,0,13,"No","Yes","M","High School","Clerical",58,"Commercial","Pickup","no",4,"No",1,195213,38259,11130,5712
+1,1,41,2,14,"No","Yes","F","Masters","Manager",41,"Commercial","Panel Truck","no",2,"No",18,682634,290846,43280,4422
+1,1,40,2,8,"Yes","No","F","Bachelors","Clerical",42,"Private","SUV","no",4,"No",7,0,47841,10280,9035
+0,0,50,0,9,"No","No","M","Masters","Lawyer",36,"Private","Pickup","yes",0,"No",11,0,154602,6500,0
+0,0,50,0,10,"No","No","F","PhD","Doctor",33,"Private","Minivan","no",0,"Yes",19,0,136458,15630,0
+1,0,54,0,10,"No","Yes","M","High School","Blue Collar",35,"Commercial","Minivan","no",1,"No",1,140075,41345,15870,8877
+0,0,40,0,12,"No","No","M","PhD","Lawyer",5,"Private","Van","no",2,"No",12,0,47897,16460,42734
+0,0,29,3,10,"Yes","No","F","High School","Clerical",54,"Private","Sports Car","no",2,"No",11,0,53643,10080,5910
+1,1,38,1,12,"No","Yes","F","<High School","Clerical",36,"Private","SUV","no",2,"No",1,173495,37580,5260,867
+0,0,47,0,10,"No","Yes","M","Bachelors","Manager",52,"Private","Minivan","yes",0,"No",6,190629,70241,15670,0
+1,2,40,2,11,"Yes","No","M","High School","Blue Collar",5,"Commercial","Pickup","yes",1,"No",1,0,63913,5500,1896
+0,0,37,0,7,"No","Yes","F","Bachelors","Manager",34,"Private","SUV","no",0,"No",12,300906,114636,33240,0
+0,0,32,3,0,"No","Yes","F","High School","Home Maker",51,"Private","SUV","no",0,"No",1,107325,0,10350,0
+0,0,49,0,12,"No","No","M","High School","Professional",17,"Private","Minivan","yes",5,"No",8,0,66972,24760,6813
+0,0,50,0,12,"No","Yes","F","High School","Blue Collar",49,"Commercial","Pickup","no",0,"No",1,187982,45750,19490,0
+0,0,48,0,15,"No","Yes","F","Masters","Lawyer",53,"Private","SUV","no",0,"No",18,219277,79078,9410,0
+1,2,44,3,13,"No","Yes","M","<High School","Blue Collar",77,"Commercial","Pickup","yes",2,"No",1,108984,18154,6420,8183
+1,0,34,1,13,"No","Yes","M","High School","Blue Collar",24,"Commercial","Pickup","no",1,"Yes",1,151790,38307,5330,17857
+0,1,37,3,10,"No","Yes","F","High School","Clerical",49,"Private","Sports Car","no",0,"No",1,112574,28284,7810,0
+1,0,50,0,10,"No","No","F","PhD","Lawyer",6,"Private","SUV","no",2,"Yes",12,0,216924,6500,27369
+0,0,48,0,8,"No","Yes","F","Masters","Lawyer",24,"Private","SUV","no",0,"No",21,221009,66702,15580,0
+0,0,40,0,14,"No","Yes","F","<High School","Clerical",20,"Commercial","Pickup","no",0,"No",6,192942,42420,25200,0
+0,0,49,0,14,"No","Yes","M","High School","Blue Collar",37,"Commercial","Minivan","yes",2,"No",1,201302,47796,15620,5150
+0,0,50,0,11,"No","No","M","Masters","Professional",31,"Commercial","Pickup","no",2,"No",16,0,104831,6500,6657
+1,0,57,0,12,"No","No","M","High School","Blue Collar",5,"Commercial","Pickup","no",1,"No",9,0,62203,7720,7326
+0,0,48,0,8,"No","Yes","F","High School","Clerical",38,"Private","Pickup","no",0,"Yes",7,117343,28012,26370,0
+0,0,49,0,14,"No","No","F","<High School","Clerical",35,"Private","SUV","no",0,"No",5,0,24490,8850,0
+0,0,53,0,7,"No","No","M","Bachelors","Professional",42,"Private","Van","yes",0,"No",12,0,48194,16690,0
+0,0,43,3,17,"No","Yes","F","<High School","Clerical",69,"Private","Sports Car","no",0,"No",1,166396,19012,7700,0
+0,0,46,0,12,"No","Yes","M","<High School","Blue Collar",52,"Private","Pickup","yes",1,"No",1,210039,38392,9940,5629
+1,0,39,0,0,"No","No","F","Bachelors","Home Maker",41,"Commercial","SUV","no",2,"No",14,0,0,10070,3855
